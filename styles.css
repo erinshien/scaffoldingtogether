@@ -58,8 +58,12 @@ table {
 
 
 /* Hero */
-
-
+h1 {
+    Font-size: 3rem;
+}
+h3 {
+    Font-size: 1.3rem;
+}
 /* Endorsments */
 
 
